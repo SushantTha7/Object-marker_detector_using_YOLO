@@ -13,7 +13,7 @@ execute <a href = "https://github.com/SushantTha7/Object-marker_detector_using_Y
   
 <h3>To test on video</h3>
 
-execute <a href=" https://github.com/SushantTha7/Object-marker_detector_using_YOLO/blob/main/test_on_video.py">test_on_video.py</a> file.
+execute <a href = "https://github.com/SushantTha7/Object-marker_detector_using_YOLO/blob/main/test_on_video.py">test_on_video.py </a> file.
 
   python test_on_video.py
 
